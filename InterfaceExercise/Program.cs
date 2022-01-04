@@ -13,14 +13,14 @@ namespace InterfaceExercise
 
             //DONECreate 3 classes called Car , Truck , & SUV
 
-            //In your IVehicle
+            //DONEIn your IVehicle
             
                 /* Create 4 members that Car, Truck, & SUV all have in common.
                  * Example: All vehicles have a number of wheels... for now..
                  */
             
 
-            //In ICompany
+            //DONEIn ICompany
             
                 /*Create 2 members that are specific to each every company
                  * regardless of vehicle type.

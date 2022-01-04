@@ -6,5 +6,6 @@ namespace InterfaceExercise
 {
     class SUV
     {
+        public bool cargoHold { get; set; } = true;
     }
 }

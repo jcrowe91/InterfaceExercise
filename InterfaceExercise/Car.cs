@@ -6,5 +6,6 @@ namespace InterfaceExercise
 {
     class Car
     {
+        public bool trunk { get; set; } = true;
     }
 }

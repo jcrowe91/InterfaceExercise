@@ -29,7 +29,7 @@ namespace InterfaceExercise
                  * Example: public string Logo { get; set; }
                  */
 
-            //In each of your car, truck, and suv classes
+            //DONEIn each of your car, truck, and suv classes
 
                 /*Create 2 members that are specific to each class
                  * Example: truck has a bed size while car has a trunk while suv has a cargo hold size

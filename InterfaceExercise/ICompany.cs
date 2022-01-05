@@ -6,7 +6,7 @@ namespace InterfaceExercise
 {
     interface ICompany
     {
-        public void Logo();       
-        public void Tagline();
+        public void Logo();
+        public void Tag();
     }
 }

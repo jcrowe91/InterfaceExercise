@@ -8,7 +8,7 @@ namespace InterfaceExercise
     {
         public void Wheels();
         public void Doors();
-        public void FourByFour();
-        public void Towing();
+        public void Antenna();
+        public void Mirrors();
     }
 }

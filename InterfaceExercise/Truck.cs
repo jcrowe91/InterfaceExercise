@@ -11,32 +11,32 @@ namespace InterfaceExercise
 
         public void Logo()
         {
-
+            Console.WriteLine("This truck has a logo in the back window!");
         }
 
-        public void Tagline()
+        public void Tag()
         {
-
+            Console.WriteLine("This vehicle has yet to have a tag on it.");
         }
 
         public void Wheels()
         {
-
+            Console.WriteLine("This vehicle is equipped with mudgrips.");
         }
 
         public void Doors()
         {
-
+            Console.WriteLine("This is a two door truck.");
         }
 
-        public void FourByFour()
+        public void Antenna()
         {
-
+            Console.WriteLine("This truck has a CB radio antenna on it!");
         }
 
-        public void Towing()
+        public void Mirrors()
         {
-
+            Console.WriteLine("This truck has tow mirrors on it.");
         }
 
     }
